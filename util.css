@@ -1,0 +1,28 @@
+.text-center{
+text-align: center;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
+.calculate{
+  display: grid;
+  grid-template-columns: repeat();
+  border: 1px solid black;
+  padding: 13px;
+  height: 450px;
+  border-radius: 20px;
+  background-color: black;
+  box-shadow: 0px -2px 5px 0px;
+}
